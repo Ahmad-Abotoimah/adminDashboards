@@ -1,0 +1,110 @@
+    * {
+        padding: 0%;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    
+    body {
+        background-color: rgb(250, 250, 250);
+    }
+    /*welcome page styling*/
+    
+    .header {
+        min-height: 100px;
+        justify-content: center;
+        align-content: center;
+        text-align: center;
+        margin-top: 50px;
+    }
+    
+    .header h1 {
+        margin-bottom: 50px;
+    }
+    
+    .main {
+        min-height: 100px;
+        justify-content: center;
+        align-content: center;
+        text-align: center;
+        margin-top: 50px;
+    }
+    
+    .main img {
+        min-width: 300px;
+        opacity: 0.7;
+    }
+    
+    .btns {
+        min-height: 100px;
+        min-height: 100px;
+        justify-content: space-between;
+        align-content: space-between;
+        text-align: center;
+        margin-top: 50px;
+    }
+    
+    .btns .btn {
+        max-width: 400px;
+        margin-left: 104px;
+        border: 1px solid;
+        border-radius: 61px;
+        min-height: 84%;
+    }
+    /*welcome page  end styling*/
+    /*loginpage styling*/
+    
+    .main input {
+        max-width: 400px;
+        margin-left: 466px;
+    }
+    
+    .form-label {
+        margin-bottom: 0.5rem;
+        margin-left: -326px;
+    }
+    
+    .logbtn {
+        border-radius: 50px;
+        width: 372px;
+        height: 72px;
+        margin-top: 50px;
+        margin-bottom: 20px;
+        margin-left: 43px;
+    }
+    
+    .sign-up-link {
+        text-decoration: none;
+        color: black;
+        font-size: 17px;
+        font-weight: bold;
+    }
+    
+    .login-head {
+        margin-top: 100px;
+    }
+    /*loginpage end styling*/
+    /*signup page styling*/
+    
+    .header .signup-head {
+        margin-top: 5px;
+        margin-bottom: 0px;
+    }
+    
+    .full-name {
+        max-width: 404px;
+        justify-content: center;
+        align-content: center;
+        margin-left: 466px;
+        height: 100px;
+    }
+    
+    .signup-main {
+        margin-top: 0%;
+        max-height: 511px;
+        min-height: 100px;
+        justify-content: center;
+        align-content: center;
+        text-align: center;
+        margin-top: 90px;
+    }
+    /*signup page end styling*/
